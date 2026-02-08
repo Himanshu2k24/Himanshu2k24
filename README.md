@@ -56,10 +56,8 @@
 # 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/iamHimanshuTiwary?theme=dark&font=Baloo&ext=heatmap" />
 </p>
-
-(Replace `YOUR_LEETCODE_USERNAME` with your real one)
 
 ---
 
@@ -79,7 +77,7 @@ Structured DSA problem-solving repository
 # 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/himanshutiwary-cs/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
